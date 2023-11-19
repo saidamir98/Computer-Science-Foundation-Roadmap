@@ -268,9 +268,9 @@ While crafting this roadmap, my primary focus was on YouTube videos as the main 
     - [ ]  **Display all files in 'bar' and write a report:** Use the `ls` command with appropriate options to list all files (including hidden ones) in the 'bar' directory. Redirect the output to a new file named 'report.txt' using the `>` operator.
     - [ ]  **Display lines with 'foo' or 'bar' recursively:** Use the `grep` command with the `r` option to search for all lines containing 'foo' or 'bar' recursively from the home directory.
     - [ ]  **Download a file using 'wget':** If 'wget' is not installed, use a package manager like Homebrew to install it. Then use the `wget` command to download the file from the specified URL([https://raw.githubusercontent.com/dwyl/english-words/master/words.txt](https://raw.githubusercontent.com/dwyl/english-words/master/words.txt)).
-    - [ ]  **Search for the word 'john' and display results:** Use the `grep` command to search for the word 'john'. Display the lines containing 'john' along with consecutive line numbers.
-    - [ ]  **Append your name to the downloaded file:** Add your name at the end of the file.
-    - [ ]  **Executed Commands:** List all previously executed commands in the terminal and save them in order in a file named history.txt
+    - [ ]  **Search for the word 'john' and display results:** Use the `grep` command to search for the word 'john' from recently downloaded file(words.txt). Display the lines containing 'john' along with consecutive line numbers.
+    - [ ]  **Append your name to the downloaded file:** Add your name at the end of the file(words.txt).
+    - [ ]  **Executed Commands:** List all previously executed commands in the terminal and save them in order in a file named **history.txt**
 
 ### 1.4.3 Shell Scripting
 - [Bash in 100 Seconds](https://youtu.be/I4EWvMFj37g)
@@ -279,9 +279,9 @@ While crafting this roadmap, my primary focus was on YouTube videos as the main 
 - **Projects**:
     - [ ]  **Generate Script from Command History with Progress Echo:**
         1. **Objective:**
-            - Transform the sequence of commands in `history.txt` into a shell script (`script.sh`) with added `echo` statements to display progress.
+            - Transform the sequence of commands in `history.txt`(the result of the previous practice tasks) into a shell script (`script.sh`) with added `echo` statements to display progress.
         2. **Procedure:**
-            - Open the `history.txt` file and carefully review the commands.
+            - Open the `history.txt`(the result of the previous practice tasks) file and carefully review the commands.
             - Create a new file named `script.sh`.
             - Copy and paste the commands from `history.txt` into `script.sh`.
             - Add `echo` statements before each command to provide visual progress indications.
