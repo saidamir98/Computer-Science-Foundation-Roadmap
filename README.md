@@ -6,15 +6,11 @@
 
 ## 1.1.# Basics of CS(Computer Science)
 
-### 1.1.1 [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
-
-### 1.1.2 [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
-
-### 1.1.3 [What does what in your computer? Computer parts Explained](https://youtu.be/ExxFxD4OSZ0)
-
-### 1.1.4 **[Introduction to Computer Science Lecture | Harvard CS50 2023](https://youtube.com/playlist?list=PL7cmIFofq7xHOKUpuU66uYiXanbD9Mp-O)**
-
-### 1.1.5 [100+ Computer Science Concepts Explained](https://youtu.be/-uleG_Vecis?si=DYJRmP-e76X0OUpp)
+- [Introduction to Programming and Computer Science - Full Course](https://youtu.be/zOjov-2OZ0E)
+- [Map of Computer Science](https://youtu.be/SzJ46YA_RaA)
+- [What does what in your computer? Computer parts Explained](https://youtu.be/ExxFxD4OSZ0)
+- **[Introduction to Computer Science Lecture | Harvard CS50 2023](https://youtube.com/playlist?list=PL7cmIFofq7xHOKUpuU66uYiXanbD9Mp-O)**
+- [100+ Computer Science Concepts Explained](https://youtu.be/-uleG_Vecis?si=DYJRmP-e76X0OUpp)
 
 ## 1.2.# Learn to code
 - [C++ in 100 Seconds](https://youtu.be/MNeX4EGtR5Y?si=2Tsli9fbyI0pyzF-)
@@ -196,14 +192,10 @@
         - This project provides an opportunity to demonstrate your skills in game development, programming logic, user interface design within a console, and real-time user interaction.
 
 ## 1.3.# Introduction to Data Structures and Algorithms
-
-### 1.3.1 [How I'm Studying Data Structures & Algorithms (as self taught)](https://youtu.be/eiQzzMt-J3Y)
-
-### 1.3.2 [Algorithms Explained for Beginners - How I Wish I Was Taught](https://youtu.be/JJkWemM03Lg)
-
-### 1.3.3 [Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
-
-### 1.3.4 [**Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer**](https://youtu.be/RBSGKlAvoiM)
+- [How I'm Studying Data Structures & Algorithms (as self taught)](https://youtu.be/eiQzzMt-J3Y)
+- [Algorithms Explained for Beginners - How I Wish I Was Taught](https://youtu.be/JJkWemM03Lg)
+- [Data Structures and Algorithms in 15 Minutes](https://youtu.be/oz9cEqFynHU)
+- [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM)
 
 - **Practices**:
     - [ ]  **Sort:** Explore the fundamental concepts of algorithmic efficiency by implementing and analyzing the following sorting algorithms: Insertion Sort, Selection Sort, Bubble Sort, Merge Sort, and Counting Sort. As you delve into the intricacies of each algorithm, strive to define and comprehend their respective time and space complexities, gaining valuable insights into the efficiency of these sorting techniques.
@@ -361,14 +353,10 @@
             3. Run the script with `./screenshot.sh`.
 
 ## 1.5.# Version Control Systems
-
-### 1.5.0 [Git & GitHub Crash Course For Beginners](https://youtu.be/SWYqp7iY_Tc)
-
-### 1.5.1 [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw?si=C6FmA8vE3g15iJHu)
-
-### 1.5.2 [Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/8JJ101D3knE)
-
-### 1.5.3 [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk?si=OEFKXl6cM5fNtDY8)
+- [Git & GitHub Crash Course For Beginners](https://youtu.be/SWYqp7iY_Tc)
+- [Git and GitHub Tutorial for Beginners](https://youtu.be/tRZGeaHPoaw?si=C6FmA8vE3g15iJHu)
+- [Git Tutorial for Beginners: Command-Line Fundamentals](https://youtu.be/8JJ101D3knE)
+- [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk?si=OEFKXl6cM5fNtDY8)
 
 - Projects:
     - [ ]  Git Essentials: Initiating Your First Repository, Making Commits, and Handling Merge Requests
