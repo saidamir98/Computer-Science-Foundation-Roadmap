@@ -1,5 +1,7 @@
 # 1.* Computer Science Foundation
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
 🚀 Explore the Computer-Science-Foundation-Roadmap, a comprehensive guide designed to build a robust understanding of computer science. From programming fundamentals to advanced concepts like data structures and operating systems, this roadmap offers a structured learning path with recommended video resources, hands-on exercises, and inspiring projects. Perfect for beginners and those aiming to deepen their knowledge, this repository serves as an invaluable resource for aspiring professionals in computer science and related fields. Start your journey to mastery! 💻🔍✨
 
 ## 1.1.# Basics of CS(Computer Science)
@@ -478,3 +480,8 @@
         25. **Review and Merge Pull Requests:**
             - Task: Review and merge pull requests submitted by others.
             - Resources: [GitHub - Reviewing changes in pull requests](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews)
+
+---
+[Computer Science Foundation Roadmap](https://github.com/saidamir98/Computer-Science-Foundation-Roadmap) © 2023 by [Saidamir Botirov](https://linkedin.com/in/saidamir-botirov) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+
+![CC BY-SA 4.0 License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
