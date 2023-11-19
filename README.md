@@ -2,7 +2,9 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-🚀 Explore the Computer-Science-Foundation-Roadmap, a comprehensive guide designed to build a robust understanding of computer science. From programming fundamentals to advanced concepts like data structures and operating systems, this roadmap offers a structured learning path with recommended video resources, hands-on exercises, and inspiring projects. Perfect for beginners and those aiming to deepen their knowledge, this repository serves as an invaluable resource for aspiring professionals in computer science and related fields. Start your journey to mastery! 💻🔍✨
+🚀 Explore the Computer-Science-Foundation-Roadmap, a comprehensive guide designed to build a robust understanding of computer science. From programming fundamentals to advanced concepts like data structures and operating systems, this roadmap offers a structured learning path with recommended video resources, hands-on exercises, and inspiring projects. Perfect for beginners and those aiming to deepen their knowledge, this repository serves as an invaluable resource for aspiring professionals in computer science and related fields.
+
+While crafting this roadmap, my primary focus was on YouTube videos as the main learning resources to facilitate an easier learning path. However, it's essential to note that learners are not confined to these resources alone. Computer Science is an extensive field, and in this roadmap, I've attempted to encapsulate its breadth. So, dive in and enjoy the learning journey!💻🔍✨
 
 ## 1.1.# Basics of CS(Computer Science)
 
